@@ -1,1 +1,2 @@
 logo: assets/cps-iot.png
+theme-override : assets/custom.css
