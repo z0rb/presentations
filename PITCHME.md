@@ -19,6 +19,18 @@
 
 @title[Core Services]
 
+#### Core Services
+
+A minimal cloud is comprised of:
+
+<ul>
+  <li class="fragment">Service Registry</li>
+  <li class="fragment">Orchestration Service</li>
+  <li class="fragment">Authorization and Authention (and Accounting) Service</li>
+</ul>
+
+
+
 ---
 
 @title[Support Services]
