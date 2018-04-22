@@ -35,6 +35,11 @@ Mandatory (minimal) local cloud components:
 
 #### Automation Support Services
 
+| System |Already Implemented|
+|--------|-------------------|
+| QoS    | Yes               |
+
+
 ---
 
 @title[Provider Registrator]
