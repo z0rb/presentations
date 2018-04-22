@@ -7,6 +7,8 @@
 
 @title[Arrowhead]
 
+#### Arrowead Concepts Compared to Modern Approaches
+
 <ul>
   <li class="fragment">Cloud vs. Inter-Device Approach</li>
   <li class="fragment">Global vs. Local Cloud</li>
