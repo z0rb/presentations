@@ -35,10 +35,18 @@ Mandatory (minimal) local cloud components:
 
 #### Automation Support Services
 
-| System |Already Implemented|
+| System |Implemented in M3|
 |--------|-------------------|
-| QoS    | Yes               |
-
+| Plant Description | No |
+| Configuration | No |
+| System Registry | No |
+| Device Registry | No |
+| Event Handler | No |
+| QoS Manager | Yes |
+| Historian | No |
+| Gatekeeper | Yes |
+| Translation | No |
+| Gateway | Yes |
 
 ---
 
