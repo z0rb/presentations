@@ -38,7 +38,7 @@ Mandatory (minimal) local cloud components:
 
 | System |Implemented in M3|
 |--------|-------------------|
-| <sub>Plant Description</sub> | <sub>No</sub> |
+| Plant Description | No |
 | Configuration | No |
 | System Registry | No |
 | Device Registry | No |
