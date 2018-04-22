@@ -1,7 +1,7 @@
 @title[Title Page]
 
 # Arrowhead
-## Middleware for the CPS/IoT Ecosystem
+### Middleware for the CPS/IoT Ecosystem
 
 ---
 
