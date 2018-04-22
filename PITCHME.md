@@ -21,15 +21,13 @@
 
 #### Core Services
 
-A minimal cloud is comprised of:
+Mandatory (minimal) local cloud components:
 
 <ul>
   <li class="fragment">Service Registry</li>
   <li class="fragment">Orchestration Service</li>
-  <li class="fragment">Authorization and Authention (and Accounting) Service</li>
+  <li class="fragment">Authorization and Authentication (and Accounting) Service</li>
 </ul>
-
-
 
 ---
 
