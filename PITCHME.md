@@ -35,10 +35,10 @@ Mandatory (minimal) local cloud components:
 #### Automation Support Services
 
 +++
-<div>
+
 | System |Implemented in M3|
 |--------|-------------------|
-| Plant Description | No |
+| <sub>Plant Description</sub> | <sub>No</sub> |
 | Configuration | No |
 | System Registry | No |
 | Device Registry | No |
@@ -48,7 +48,7 @@ Mandatory (minimal) local cloud components:
 | Gatekeeper | Yes |
 | Translation | No |
 | Gateway | Yes |
-</div>
+
 ---
 
 @title[Provider Registrator]
