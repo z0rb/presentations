@@ -19,20 +19,20 @@
 
 @title[Core Services]
 
-#### Core Services
+#### Core Systems
 
-Mandatory (minimal) local cloud components:
+Mandatory (minimal) local cloud systems:
 
 <ul>
   <li class="fragment">Service Registry</li>
-  <li class="fragment">Orchestration Service</li>
-  <li class="fragment">Authorization and Authentication (and Accounting) Service</li>
+  <li class="fragment">Orchestrator</li>
+  <li class="fragment">Authorization and Authentication (and Accounting)</li>
 </ul>
 
 ---
-@title[Automation Support Services]
+@title[Automation Support Systems]
 
-#### Automation Support Services
+#### Automation Support Systems
 
 +++
 
