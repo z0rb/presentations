@@ -8,9 +8,9 @@
 @title[Arrowhead]
 
 <ul>
-  <li>Cloud vs. Communication Approach</li>
-  <li>Global vs. Local Cloud</li>
-  <li>Proprietary vs. Open/Free</li>
+  <li class="fragment">Cloud vs. Inter-Device Approach</li>
+  <li class="fragment">Global vs. Local Cloud</li>
+  <li class="fragment">Proprietary vs. Open/Free</li>
 </ul>
 
 ---
