@@ -98,6 +98,8 @@ The registration functionality can be imported into a Java project using a WAR o
 
 @title[Dockerization]
 
+#### Dockerized Demo System (Cloud of Clouds)
+
 Two clouds have been dockerized using docker compose.
 
 +++
