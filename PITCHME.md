@@ -144,3 +144,10 @@ Two clouds have been dockerized using docker compose.
 - Unclear if build system exists
 - No maven repository usage
 - Quality assurance needs to be overhauled/introduced and automated
+
+---
+
+@title[Questions]
+
+####Questions?
+<span class="fragment">Thank You</span>
