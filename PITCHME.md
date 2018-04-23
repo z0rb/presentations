@@ -141,7 +141,7 @@ Two clouds have been dockerized using docker compose.
 
 - Ad-Hoc development
 - Missing Unit/Integration/Regression Tests
-- Unclear if build system exists
+- Unclear if development and build pipeline exists
 - No maven repository usage
 - Quality assurance needs to be overhauled/introduced and automated
 
