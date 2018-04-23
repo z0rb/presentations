@@ -35,6 +35,7 @@ Mandatory (minimal) local cloud systems:
 #### Automation Support Systems
 
 +++
+@title[M3 Implemented Systems]
 
 | System |Implemented in M3|
 |--------|-------------------|
@@ -52,6 +53,16 @@ Mandatory (minimal) local cloud systems:
 ---
 
 @title[Provider Registrator]
+
+<ul>
+  <li>Enables constrained devices registration within a local cloud.</li>
+  <li>Standalone or Extended</li>
+  <li>Basis for self-registering services.</li>
+</ul>
++++
+@title[Extended Provider Registrator]
+
+
 
 ---
 
