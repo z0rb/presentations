@@ -86,6 +86,8 @@ The registration functionality can be imported into a Java project using a WAR o
 
 @title[Generalized Consumer]
 
+#### Generalized (UI) Consumer
+
 - Consumes a configured service
 - Handles intra-cloud authorization
 - Handles inter-cloud authorization
