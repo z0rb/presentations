@@ -109,7 +109,7 @@ Two clouds have been dockerized using docker compose.
 
 - Cloud runs core Arrowhead framework systems as containers
 - Also runs database, gateway and gatekeeper systems as containers
-- Runs an extended provider registrator providing humidity and illumination readings
+- Runs an extended provider registrator providing temperature, humidity and illumination readings
 - Tested on RaspberryPi 3B
 
 +++
