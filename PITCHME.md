@@ -82,6 +82,12 @@ The registration functionality can be imported into a Java project using a WAR o
 
 @title[Generalized Consumer]
 
+- Consumes a configured service
+- Handles intra-cloud authorization
+- Handles inter-cloud authorization
+- Polls the configured consumed service in predefined intervals
+- Displays the query information and currently returned payload in a very simple UI
+
 ---
 
 @title[Dockerization]
