@@ -126,6 +126,15 @@ Two clouds have been dockerized using docker compose.
 
 @title[State of the Community]
 
+#### State of the Community
+
+- Currently academia with partners
+- Closed but appreceated communication
+- Plans for a broader open community are unclear
+- Zero-transparency project management
+
 ---
 
 @title[State of the Code]
+
+#### State of the Code
