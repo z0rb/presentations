@@ -62,7 +62,21 @@ Mandatory (minimal) local cloud systems:
 +++
 @title[Extended Provider Registrator]
 
+The registration functionality can be imported into a Java project using a WAR overlay.
 
+@[fragment-range]
+
+<dependencies>
+  ...
+  <dependency>
+    <groupId>at.ac.tuwien.cpsg.arrowhead.providers</groupId>
+    <artifactId>provider-registrator</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <type>war</type>
+    <scope>runtime</scope>
+  </dependency>
+  ...
+<dependencies>
 
 ---
 
