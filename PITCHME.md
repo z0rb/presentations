@@ -88,10 +88,10 @@ The registration functionality can be imported into a Java project using a WAR o
 
 #### Generalized (UI) Consumer
 
-- Consumes a configured service
+- Consumes configured services
 - Handles intra-cloud authorization
 - Handles inter-cloud authorization
-- Polls the configured consumed service in predefined intervals
+- Polls the configured consumed services in predefined intervals
 - Displays the query information and currently returned payload in a very simple UI
 
 ---
