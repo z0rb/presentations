@@ -138,3 +138,9 @@ Two clouds have been dockerized using docker compose.
 @title[State of the Code]
 
 #### State of the Code
+
+- Ad-Hoc development
+- Missing Unit/Integration/Regression Tests
+- Unclear if build system exists
+- No maven repository usage
+- Quality assurance needs to be overhauled/introduced and automated
