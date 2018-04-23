@@ -54,6 +54,8 @@ Mandatory (minimal) local cloud systems:
 
 @title[Provider Registrator]
 
+#### Provider Registrator
+
 <ul>
   <li>Enables constrained devices registration within a local cloud.</li>
   <li>Standalone or Extended</li>
@@ -61,6 +63,8 @@ Mandatory (minimal) local cloud systems:
 </ul>
 +++
 @title[Extended Provider Registrator]
+
+#### Extended Provider Registrator
 
 The registration functionality can be imported into a Java project using a WAR overlay.
 
