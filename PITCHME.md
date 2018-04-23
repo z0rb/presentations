@@ -64,8 +64,7 @@ Mandatory (minimal) local cloud systems:
 
 The registration functionality can be imported into a Java project using a WAR overlay.
 
-@[fragment-range]
-
+```xml
 <dependencies>
   ...
   <dependency>
@@ -77,6 +76,7 @@ The registration functionality can be imported into a Java project using a WAR o
   </dependency>
   ...
 <dependencies>
+```
 
 ---
 
