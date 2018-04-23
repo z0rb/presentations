@@ -7,7 +7,7 @@
 
 @title[Arrowhead]
 
-#### Arrowead in Comparison
+#### Arrowhead in Comparison
 
 <ul>
   <li class="fragment">Cloud vs. Inter-Device Approach</li>
@@ -129,7 +129,7 @@ Two clouds have been dockerized using docker compose.
 #### State of the Community
 
 - Currently academia with partners
-- Closed but appreceated communication
+- Closed but appreciated communication
 - Plans for a broader open community are unclear
 - Zero-transparency project management
 
