@@ -98,6 +98,22 @@ The registration functionality can be imported into a Java project using a WAR o
 
 @title[Dockerization]
 
+Two clouds have been dockerized using docker compose.
+
++++
+@title[Producer Cloud]
+
+- Cloud runs core Arrowhead framework systems as containers
+- Also runs database, gateway and gatekeeper systems as containers
+- Runs an extended provider registrator providing humidity and illumination readings
+
++++
+@title[Consumer Cloud]
+
+- Cloud runs core Arrowhead framework systems as containers
+- Also runs database, gateway and gatekeeper systems as containers
+- Runs the UI-Consumer consuming the producer cloud provided services
+
 ---
 
 @title[State of the Community]
